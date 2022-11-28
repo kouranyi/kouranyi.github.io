@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.serviceuserapp.test",
+    "sha256_cert_fingerprints":
+    ["D0:3E:FF:00:F5:17:5E:25:B1:6B:4E:24:B0:76:4E:71:B8:42:63:F1:6E:AB:17:0F:54:8E:10:C5:2B:00:A8:C0"]
+  }
+}]
